@@ -1,0 +1,1298 @@
+[
+  
+  { 
+    "id": 1,
+    "question": "What does a red traffic light mean?", 
+    "options": ["Go", "Slow", "Stop", "Yield"], 
+    "answer": "Stop", 
+    "category": "Traffic Control" 
+  },
+  { 
+    "id": 2,
+    "question": "Yellow traffic light indicates?", 
+    "options": ["Stop", "Caution", "Speed up", "Turn"], 
+    "answer": "Caution", 
+    "category": "Traffic Control" 
+  },
+  {
+    "id": 3,
+    "question": "What does a circular sign with a red border mean?",
+    "options": ["Warning", "Information", "Prohibition", "Mandatory"],
+    "answer": "Prohibition",
+    "category": "Traffic Signs"
+  },
+
+
+  {
+    "id": 4,
+    "question": "What does a triangular sign with red border indicate?",
+    "options": ["Give way/Yield", "Stop", "No entry", "Speed limit"],
+    "answer": "Speed limit",
+    "category": "Traffic Signs"
+  },
+  {
+    "id": 5,
+    "question": "What does a blue circular sign mean?",
+    "options": ["Prohibition", "Warning", "Mandatory", "Information"],
+    "answer": "Mandatory",
+    "category": "Traffic Signs"
+  },
+  {
+    "id": 6,
+    "question": "What does a rectangular blue sign indicate?",
+    "options": ["Warning", "Information", "Prohibition", "Mandatory direction"],
+    "answer": "Information",
+    "category": "Traffic Signs"
+  },
+  {
+    "id": 7,
+    "question": "What does a school zone sign look like?",
+    "options": ["Red circle", "Yellow pentagon", "Blue rectangle", "Green triangle"],
+    "answer": "Yellow pentagon",
+    "category": "Traffic Signs"
+  },
+  {
+    "id": 8,
+    "question": "What does a merge sign indicate?",
+    "options": ["Traffic joining from the right", "Traffic joining from the left", "Both lanes ending", "Speed limit change"],
+    "answer": "Traffic joining from the right",
+    "category": "Traffic Signs"
+  },
+  {
+    "id": 9,
+    "question": "What does a pedestrian crossing sign show?",
+    "options": ["Car symbol", "Person walking symbol", "Bicycle symbol", "Bus symbol"],
+    "answer": "Person walking symbol",
+    "category": "Traffic Signs"
+  },
+  {
+    "id": 10,
+    "question": "What does a no U-turn sign look like?",
+    "options": ["Red circle with U-turn crossed out", "Yellow diamond", "Blue square", "Green triangle"],
+    "answer": "Red circle with U-turn crossed out",
+    "category": "Traffic Signs"
+  },
+  {
+    "id": 11,
+    "question": "What is the speed limit in a school zone?",
+    "options": ["25 km/h", "40 km/h", "50 km/h", "60 km/h"],
+    "answer": "25 km/h",
+    "category": "Road Rules"
+  },
+  {
+    "id": 12,
+    "question": "When must you give way at an intersection?",
+    "options": ["Always to traffic from the right", "To traffic already in the intersection", "Only to emergency vehicles", "Never"],
+    "answer": "To traffic already in the intersection",
+    "category": "Road Rules"
+  },
+  {
+    "id": 13,
+    "question": "What is the legal blood alcohol limit for fully licensed drivers?",
+    "options": ["0.00%", "0.05%", "0.08%", "0.10%"],
+    "answer": "0.05%",
+    "category": "Road Rules"
+  },
+  {
+    "id": 14,
+    "question": "When can you use a mobile phone while driving?",
+    "options": ["Never", "Only hands-free", "Only for emergencies", "Only when stationary"],
+    "answer": "Only hands-free",
+    "category": "Road Rules"
+  },
+  {
+    "id": 15,
+    "question": "What is the minimum following distance in good conditions?",
+    "options": ["1 second", "2 seconds", "3 seconds", "4 seconds"],
+    "answer": "3 seconds",
+    "category": "Road Rules"
+  },
+  {
+    "id": 16,
+    "question": "When must you indicate when changing lanes?",
+    "options": ["Only on highways", "Always", "Only when other traffic is present", "Only at night"],
+    "answer": "Always",
+    "category": "Road Rules"
+  },
+  {
+    "id": 17,
+    "question": "What should you do when approaching a roundabout?",
+    "options": ["Speed up", "Give way to traffic already in the roundabout", "Sound your horn", "Flash your lights"],
+    "answer": "Give way to traffic already in the roundabout",
+    "category": "Road Rules"
+  },
+  {
+    "id": 18,
+    "question": "When can you cross a solid white line?",
+    "options": ["Never", "To avoid an obstruction", "Only to overtake", "Only to turn right"],
+    "answer": "To avoid an obstruction",
+    "category": "Road Rules"
+  },
+  {
+    "id": 19,
+    "question": "What is the speed limit on most residential roads?",
+    "options": ["40 km/h", "50 km/h", "60 km/h", "70 km/h"],
+    "answer": "50 km/h",
+    "category": "Road Rules"
+  },
+  {
+    "id": 20,
+    "question": "When must you wear a seatbelt?",
+    "options": ["Only on highways", "Only in the front seat", "Always when the vehicle is moving", "Only when children are present"],
+    "answer": "Always when the vehicle is moving",
+    "category": "Road Rules"
+  },
+  {
+    "id": 21,
+    "question": "What should you do if your brakes fail?",
+    "options": ["Pump the brake pedal", "Use the handbrake gradually", "Turn off the engine", "All of the above"],
+    "answer": "All of the above",
+    "category": "Safety"
+  },
+  {
+    "id": 22,
+    "question": "What is the safest way to handle a tire blowout?",
+    "options": ["Brake hard immediately", "Keep a firm grip and slow down gradually", "Turn the steering wheel quickly", "Accelerate"],
+    "answer": "Keep a firm grip and slow down gradually",
+    "category": "Safety"
+  },
+  {
+    "id": 23,
+    "question": "What should you do in heavy rain?",
+    "options": ["Increase speed", "Reduce speed and increase following distance", "Use high beam headlights", "Drive closer to other vehicles"],
+    "answer": "Reduce speed and increase following distance",
+    "category": "Safety"
+  },
+  {
+    "id": 24,
+    "question": "When should you use hazard lights?",
+    "options": ["When parking illegally", "When your vehicle is stopped and causing a hazard", "When driving slowly", "When turning"],
+    "answer": "When your vehicle is stopped and causing a hazard",
+    "category": "Safety"
+  },
+  {
+    "id": 25,
+    "question": "What is the most important thing when reversing?",
+    "options": ["Speed", "Looking in all directions", "Using the horn", "Using hazard lights"],
+    "answer": "Looking in all directions",
+    "category": "Safety"
+  },
+  {
+    "id": 26,
+    "question": "What should you do if you feel drowsy while driving?",
+    "options": ["Open windows", "Turn up music", "Stop and rest", "Drink coffee"],
+    "answer": "Stop and rest",
+    "category": "Safety"
+  },
+  {
+    "id": 27,
+    "question": "What is the purpose of ABS brakes?",
+    "options": ["To stop faster", "To prevent wheel lockup", "To save fuel", "To reduce brake wear"],
+    "answer": "To prevent wheel lockup",
+    "category": "Safety"
+  },
+  {
+    "id": 28,
+    "question": "When should you check your mirrors?",
+    "options": ["Only when changing lanes", "Every 5-8 seconds", "Only when turning", "Only when reversing"],
+    "answer": "Every 5-8 seconds",
+    "category": "Safety"
+  },
+  {
+    "id": 29,
+    "question": "What should you do if an emergency vehicle approaches?",
+    "options": ["Speed up", "Pull over safely and stop", "Ignore it", "Flash your lights"],
+    "answer": "Pull over safely and stop",
+    "category": "Safety"
+  },
+  {
+    "id": 30,
+    "question": "What is the safest position for your hands on the steering wheel?",
+    "options": ["12 and 6 o'clock", "10 and 2 o'clock", "9 and 3 o'clock", "11 and 1 o'clock"],
+    "answer": "9 and 3 o'clock",
+    "category": "Safety"
+  },
+  {
+    "id": 31,
+    "question": "How close can you park to a fire hydrant?",
+    "options": ["1 meter", "3 meters", "5 meters", "10 meters"],
+    "answer": "3 meters",
+    "category": "Parking"
+  },
+  {
+    "id": 32,
+    "question": "When parallel parking, how far from the curb should you be?",
+    "options": ["30 cm or less", "50 cm or less", "1 meter", "As close as possible"],
+    "answer": "30 cm or less",
+    "category": "Parking"
+  },
+  {
+    "id": 33,
+    "question": "Where is it illegal to park?",
+    "options": ["Near a school crossing", "In front of a driveway", "Within 10m of an intersection", "All of the above"],
+    "answer": "All of the above",
+    "category": "Parking"
+  },
+  {
+    "id": 34,
+    "question": "When performing a U-turn, you must:",
+    "options": ["Check for oncoming traffic", "Ensure you can complete it safely", "Give way to all other traffic", "All of the above"],
+    "answer": "All of the above",
+    "category": "Parking"
+  },
+  {
+    "id": 35,
+    "question": "What should you do before opening your car door?",
+    "options": ["Check mirrors and look back", "Sound horn", "Flash lights", "Nothing special"],
+    "answer": "Check mirrors and look back",
+    "category": "Parking"
+  },
+  {
+    "id": 36,
+    "question": "What does a flashing red light mean?",
+    "options": ["Caution", "Stop then proceed when safe", "Speed up", "No entry"],
+    "answer": "Stop then proceed when safe",
+    "category": "Traffic Signs"
+  },
+  {
+    "id": 37,
+    "question": "What is the maximum speed limit on highways?",
+    "options": ["100 km/h", "110 km/h", "120 km/h", "130 km/h"],
+    "answer": "110 km/h",
+    "category": "Road Rules"
+  },
+  {
+    "id": 38,
+    "question": "When should you use your headlights?",
+    "options": ["Only at night", "During rain, fog, or dust", "30 minutes before sunset", "Both B and C"],
+    "answer": "Both B and C",
+    "category": "Safety"
+  },
+  {
+    "id": 39,
+    "question": "What should you do at a STOP sign?",
+    "options": ["Slow down", "Come to a complete stop", "Stop only if traffic is coming", "Sound your horn"],
+    "answer": "Come to a complete stop",
+    "category": "Traffic Signs"
+  },
+  {
+    "id": 40,
+    "question": "What is the penalty for driving without a license?",
+    "options": ["Warning", "Fine only", "Fine and possible imprisonment", "License suspension"],
+    "answer": "Fine and possible imprisonment",
+    "category": "Road Rules"
+  },
+  {
+    "id": 41,
+    "question": "What does a yellow traffic light mean?",
+    "options": ["Speed up", "Prepare to stop", "Continue if safe", "Stop immediately"],
+    "answer": "Prepare to stop",
+    "category": "Traffic Signs"
+  },
+  {
+    "id": 42,
+    "question": "When can you drive in a bus lane?",
+    "options": ["Never", "Only to turn", "Only during specified hours", "When no buses are present"],
+    "answer": "Only to turn",
+    "category": "Road Rules"
+  },
+  {
+    "id": 43,
+    "question": "What should you do if your car starts to skid?",
+    "options": ["Brake hard", "Steer into the skid", "Accelerate", "Turn off engine"],
+    "answer": "Steer into the skid",
+    "category": "Safety"
+  },
+  {
+    "id": 44,
+    "question": "How often should you check your vehicle's oil?",
+    "options": ["Daily", "Weekly", "Monthly", "Every 6 months"],
+    "answer": "Monthly",
+    "category": "Safety"
+  },
+  {
+    "id": 45,
+    "question": "What is the minimum tread depth for tires?",
+    "options": ["1.0 mm", "1.6 mm", "2.0 mm", "3.0 mm"],
+    "answer": "1.6 mm",
+    "category": "Safety"
+  },
+  {
+    "id": 46,
+    "question": "When must you give way to pedestrians?",
+    "options": ["Only at crossings", "At all times", "Only in school zones", "Never"],
+    "answer": "At all times",
+    "category": "Road Rules"
+  },
+  {
+    "id": 47,
+    "question": "What does a solid yellow line mean?",
+    "options": ["No overtaking", "Caution", "Speed limit", "Lane ends"],
+    "answer": "No overtaking",
+    "category": "Traffic Signs"
+  },
+  {
+    "id": 48,
+    "question": "When should you use the horn?",
+    "options": ["To greet friends", "To warn of danger", "When angry", "In tunnels only"],
+    "answer": "To warn of danger",
+    "category": "Safety"
+  },
+  {
+    "id": 49,
+    "question": "What is the speed limit near playgrounds?",
+    "options": ["25 km/h", "40 km/h", "50 km/h", "60 km/h"],
+    "answer": "25 km/h",
+    "category": "Road Rules"
+  },
+  {
+    "id": 50,
+    "question": "What should you do when the traffic light is green?",
+    "options": ["Go immediately", "Check intersection is clear then proceed", "Speed up", "Sound horn"],
+    "answer": "Check intersection is clear then proceed",
+    "category": "Traffic Signs"
+  },
+  {
+    "id": 51,
+    "question": "What is the correct procedure for changing lanes?",
+    "options": ["Indicate, check mirrors, change", "Check mirrors, indicate, check blind spot, change", "Just change quickly", "Sound horn then change"],
+    "answer": "Check mirrors, indicate, check blind spot, change",
+    "category": "Road Rules"
+  },
+  {
+    "id": 52,
+    "question": "What does a broken white line mean?",
+    "options": ["No overtaking", "Overtaking permitted when safe", "Lane ends", "Speed zone"],
+    "answer": "Overtaking permitted when safe",
+    "category": "Traffic Signs"
+  },
+  {
+    "id": 53,
+    "question": "What should you do in fog?",
+    "options": ["Use high beam lights", "Use low beam lights and slow down", "Follow the car ahead closely", "Speed up to get through quickly"],
+    "answer": "Use low beam lights and slow down",
+    "category": "Safety"
+  },
+  {
+    "id": 54,
+    "question": "When can you exceed the speed limit?",
+    "options": ["When overtaking", "In emergencies", "Never", "On highways only"],
+    "answer": "Never",
+    "category": "Road Rules"
+  },
+  {
+    "id": 55,
+    "question": "What does a bicycle lane sign look like?",
+    "options": ["Blue square with bicycle", "Yellow diamond with bicycle", "Red circle with bicycle", "Green triangle with bicycle"],
+    "answer": "Blue square with bicycle",
+    "category": "Traffic Signs"
+  },
+  {
+    "id": 56,
+    "question": "What is the legal requirement for child car seats?",
+    "options": ["Until age 4", "Until age 7", "Until 145cm tall", "Both B and C"],
+    "answer": "Both B and C",
+    "category": "Safety"
+  },
+  {
+    "id": 57,
+    "question": "When must you stop for a school bus?",
+    "options": ["Never", "When lights are flashing", "Only on school days", "Only in school zones"],
+    "answer": "When lights are flashing",
+    "category": "Road Rules"
+  },
+  {
+    "id": 58,
+    "question": "What does a Keep Left sign indicate?",
+    "options": ["Drive in left lane only", "Pass obstacle on the left", "Left turn only", "Slow traffic keep left"],
+    "answer": "Pass obstacle on the left",
+    "category": "Traffic Signs"
+  },
+  {
+    "id": 59,
+    "question": "What should you do if you miss your exit on a highway?",
+    "options": ["Reverse back", "Make a U-turn", "Continue to next exit", "Stop and back up"],
+    "answer": "Continue to next exit",
+    "category": "Safety"
+  },
+  {
+    "id": 60,
+    "question": "How far must you park from a bus stop?",
+    "options": ["10 meters", "20 meters", "50 meters", "No restriction"],
+    "answer": "20 meters",
+    "category": "Parking"
+  },
+  {
+    "id": 61,
+    "question": "What is aquaplaning?",
+    "options": ["Driving underwater", "Loss of tire grip on wet roads", "Flying over water", "Swimming technique"],
+    "answer": "Loss of tire grip on wet roads",
+    "category": "Safety"
+  },
+  {
+    "id": 62,
+    "question": "When should you use cruise control?",
+    "options": ["In city traffic", "On long highway drives in good conditions", "In heavy rain", "Never"],
+    "answer": "On long highway drives in good conditions",
+    "category": "Safety"
+  },
+  {
+    "id": 63,
+    "question": "What does a No Entry sign look like?",
+    "options": ["Red circle with white bar", "Yellow triangle", "Blue square", "Green diamond"],
+    "answer": "Red circle with white bar",
+    "category": "Traffic Signs"
+  },
+  {
+    "id": 64,
+    "question": "What is the rule for giving way at a T-intersection?",
+    "options": ["Give way to the right", "Give way to traffic on the continuing road", "First come, first served", "Give way to the left"],
+    "answer": "Give way to traffic on the continuing road",
+    "category": "Road Rules"
+  },
+  {
+    "id": 65,
+    "question": "How should you approach a railway crossing?",
+    "options": ["Speed up to cross quickly", "Slow down and look both ways", "Sound horn continuously", "Close eyes and hope"],
+    "answer": "Slow down and look both ways",
+    "category": "Safety"
+  },
+  {
+    "id": 66,
+    "question": "What is the maximum blood alcohol level for learner drivers?",
+    "options": ["0.05%", "0.02%", "0.00%", "0.08%"],
+    "answer": "0.00%",
+    "category": "Road Rules"
+  },
+  {
+    "id": 67,
+    "question": "What does a One Way sign indicate?",
+    "options": ["Traffic flows in one direction only", "Single lane ahead", "One car at a time", "Speed limit 1 km/h"],
+    "answer": "Traffic flows in one direction only",
+    "category": "Traffic Signs"
+  },
+  {
+    "id": 68,
+    "question": "What should you do if your accelerator gets stuck?",
+    "options": ["Brake and shift to neutral", "Turn off ignition", "Pull handbrake", "All of the above"],
+    "answer": "All of the above",
+    "category": "Safety"
+  },
+  {
+    "id": 69,
+    "question": "When can you park facing against traffic flow?",
+    "options": ["Never", "At night only", "On one-way streets", "In emergencies only"],
+    "answer": "Never",
+    "category": "Parking"
+  },
+  {
+    "id": 70,
+    "question": "What is the safe following distance in wet conditions?",
+    "options": ["Same as dry conditions", "Double the dry weather distance", "Half the dry weather distance", "There is no difference"],
+    "answer": "Double the dry weather distance",
+    "category": "Safety"
+  },
+    {
+  "id": 71,
+  "question": "What does a Slippery Road sign look like?",
+  "options": ["Yellow diamond with zigzag arrow", "Red circle", "Blue square", "Green triangle"],
+  "category": "Traffic Signs",
+  "answer": "Yellow diamond with zigzag arrow"
+},
+{
+  "id": 72,
+  "question": "When must you use headlights during the day?",
+  "options": ["Never", "In tunnels and during poor visibility", "All the time", "Only when raining"],
+  "category": "Road Rules",
+  "answer": "In tunnels and during poor visibility"
+},
+{
+  "id": 73,
+  "question": "What should you do if a tire bursts while driving?",
+  "options": ["Brake immediately", "Hold steering firmly and slow down gradually", "Accelerate to maintain control", "Turn sharply"],
+  "category": "Safety",
+  "answer": "Hold steering firmly and slow down gradually"
+},
+{
+  "id": 74,
+  "question": "Where should you position your vehicle when turning right?",
+  "options": ["Far left", "Center of road", "As far right as safe", "Anywhere"],
+  "category": "Road Rules",
+  "answer": "As far right as safe"
+},
+{
+  "id": 75,
+  "question": "What does a Roundabout Ahead sign look like?",
+  "options": ["Yellow diamond with circular arrows", "Red octagon", "Blue rectangle", "Green triangle"],
+  "category": "Traffic Signs",
+  "answer": "Yellow diamond with circular arrows"
+},
+  {
+  "id": 76,
+  "question": "What is the penalty for using a mobile phone while driving?",
+  "options": ["Warning only", "Fine and demerit points", "License suspension", "Vehicle impoundment"],
+  "category": "Road Rules",
+  "answer": "Fine and demerit points"
+},
+{
+  "id": 77,
+  "question": "When should you not overtake?",
+  "options": ["On hills and curves", "Near intersections", "In school zones", "All of the above"],
+  "category": "Safety",
+  "answer": "All of the above"
+},
+{
+  "id": 78,
+  "question": "What does a Loading Zone sign mean?",
+  "options": ["No parking", "15-minute parking for loading", "Truck parking only", "Weight limit area"],
+  "category": "Parking",
+  "answer": "15-minute parking for loading"
+},
+{
+  "id": 79,
+  "question": "What should you do when approaching roadwork?",
+  "options": ["Speed up to pass quickly", "Slow down and follow signs", "Change lanes immediately", "Sound horn"],
+  "category": "Safety",
+  "answer": "Slow down and follow signs"
+},
+{
+  "id": 80,
+  "question": "What does a Speed Limit sign show?",
+  "options": ["Minimum speed", "Maximum speed", "Average speed", "Recommended speed"],
+  "category": "Traffic Signs",
+  "answer": "Maximum speed"
+},
+{
+  "id": 81,
+  "question": "When can you drive through a red light?",
+  "options": ["Never", "When directed by police", "In emergencies", "Both B and C"],
+  "category": "Road Rules",
+  "answer": "When directed by police"
+},
+{
+  "id": 82,
+  "question": "What should you do if an animal runs onto the road?",
+  "options": ["Swerve violently", "Brake and try to avoid", "Speed up", "Sound horn loudly"],
+  "category": "Safety",
+  "answer": "Brake and try to avoid"
+},
+{
+  "id": 83,
+  "question": "What does a Hospital sign look like?",
+  "options": ["Blue square with H", "Red cross", "Yellow diamond", "Green circle"],
+  "category": "Traffic Signs",
+  "answer": "Blue square with H"
+},
+{
+  "id": 84,
+  "question": "How long can you park in a 2-hour zone?",
+  "options": ["1 hour", "2 hours maximum", "3 hours", "As long as needed"],
+  "category": "Parking",
+  "answer": "2 hours maximum"
+},
+{
+  "id": 85,
+  "question": "What is the most common cause of accidents?",
+  "options": ["Mechanical failure", "Weather conditions", "Driver error", "Road conditions"],
+  "category": "Safety",
+  "answer": "Driver error"
+},
+{
+  "id": 86,
+  "question": "What does a Clearway sign mean?",
+  "options": ["No stopping during specified times", "Clear weather only", "Emergency vehicles only", "Speed up zone"],
+  "category": "Traffic Signs",
+  "answer": "No stopping during specified times"
+},
+{
+  "id": 87,
+  "question": "When must you give way when entering a road from a driveway?",
+  "options": ["Never", "Always", "Only to vehicles from the right", "Only during peak hours"],
+  "category": "Road Rules",
+  "answer": "Always"
+},
+{
+  "id": 88,
+  "question": "What should you do if your engine overheats?",
+  "options": ["Keep driving", "Stop safely and turn off engine", "Rev the engine", "Pour cold water on engine"],
+  "category": "Safety",
+  "answer": "Stop safely and turn off engine"
+},
+{
+  "id": 89,
+  "question": "Where can you make a U-turn?",
+  "options": ["Anywhere", "Only where signs permit", "At any intersection", "On highways only"],
+  "category": "Road Rules",
+  "answer": "Only where signs permit"
+},
+{
+  "id": 90,
+  "question": "What does a Pedestrian Crossing sign indicate?",
+  "options": ["Pedestrians prohibited", "Pedestrian crossing ahead", "Slow for pedestrians", "School zone"],
+  "category": "Traffic Signs",
+  "answer": "Pedestrian crossing ahead"
+},
+{
+  "id": 91,
+  "question": "What is the correct tire pressure range for most cars?",
+  "options": ["15-20 PSI", "30-35 PSI", "50-55 PSI", "70-75 PSI"],
+  "category": "Safety",
+  "answer": "30-35 PSI"
+},
+{
+  "id": 92,
+  "question": "When should you check your blind spots?",
+  "options": ["Never", "Only when changing lanes", "Before any maneuver", "Once per trip"],
+  "category": "Safety",
+  "answer": "Before any maneuver"
+},
+{
+  "id": 93,
+  "question": "What does a Detour sign indicate?",
+  "options": ["Road closed ahead", "Alternative route", "Construction zone", "All of the above"],
+  "category": "Traffic Signs",
+  "answer": "All of the above"
+},
+{
+  "id": 94,
+  "question": "How far ahead should you scan while driving?",
+  "options": ["10-12 seconds", "20-30 seconds", "1-2 minutes", "As far as possible"],
+  "category": "Safety",
+  "answer": "10-12 seconds"
+},
+{
+  "id": 95,
+  "question": "What is the minimum age for a learner's permit?",
+  "options": ["15 years", "16 years", "17 years", "18 years"],
+  "category": "Road Rules",
+  "answer": "16 years"
+},
+{
+  "id": 96,
+  "question": "What should you do when entering a freeway?",
+  "options": ["Stop and wait", "Accelerate to match traffic speed", "Drive slowly", "Sound horn"],
+  "category": "Road Rules",
+  "answer": "Accelerate to match traffic speed"
+},
+{
+  "id": 97,
+  "question": "What does a Lane Ends sign look like?",
+  "options": ["Yellow diamond with merging arrows", "Red octagon", "Blue circle", "Green square"],
+  "category": "Traffic Signs",
+  "answer": "Yellow diamond with merging arrows"
+},
+{
+  "id": 98,
+  "question": "When should you replace windshield wipers?",
+  "options": ["Every year", "When they streak or skip", "Every 6 months", "Only when broken"],
+  "category": "Safety",
+  "answer": "When they streak or skip"
+},
+{
+  "id": 99,
+  "question": "What is the purpose of rumble strips?",
+  "options": ["Decoration", "Alert drivers leaving their lane", "Slow down traffic", "Mark speed limits"],
+  "category": "Safety",
+  "answer": "Alert drivers leaving their lane"
+},
+{
+  "id": 100,
+  "question": "What does a Truck Route sign indicate?",
+  "options": ["Trucks only", "Recommended route for trucks", "No trucks", "Truck parking"],
+  "category": "Traffic Signs",
+  "answer": "Recommended route for trucks"
+},
+
+  {
+    "id": 101,
+    "question": "What is defensive driving?",
+    "options": ["Aggressive driving", "Anticipating potential hazards", "Racing other drivers", "Ignoring traffic rules"],
+   "answer": "Anticipating potential hazards",
+    "category": "Safety"
+  },
+  {
+    "id": 101,
+    "question": "What is defensive driving?",
+    "options": [
+      "Aggressive driving",
+      "Anticipating potential hazards",
+      "Racing other drivers",
+      "Ignoring traffic rules"
+    ],
+    "answer":"Anticipating potential hazards",
+    "category": "Safety"
+  },
+  {
+    "id": 102,
+    "question": "When can you use hazard warning lights while driving?",
+    "options": [
+      "Never while moving",
+      "When driving significantly slower than traffic",
+      "When parking illegally",
+      "When turning"
+    ],
+    "answer": "When driving significantly slower than traffic",
+    "category": "Safety"
+  },
+  {
+    "id": 103,
+    "question": "What does a REST AREA sign indicate?",
+    "options": [
+      "Hospital nearby",
+      "Place to stop and rest",
+      "Restaurant",
+      "Hotel"
+    ],
+    "answer":  "Hotel",
+    "category": "Traffic Signs"
+  },
+  {
+    "id": 104,
+    "question": "What is the proper way to hold the steering wheel?",
+    "options": [
+      "One hand at 12 o'clock",
+      "Both hands at 9 and 3 o'clock",
+      "Both hands at 6 o'clock",
+      "Any comfortable position"
+    ],
+    "answer":"Both hands at 9 and 3 o'clock",
+    "category": "Safety"
+  },
+  {
+    "id": 105,
+    "question": "When must you report an accident to police?",
+    "options": [
+      "Always",
+      "Only if someone is injured",
+      "If damage exceeds a certain amount",
+      "Both B and C"
+    ],
+    "answer":"If damage exceeds a certain amount",
+    "category": "Road Rules"
+  },
+  {
+    "id": 106,
+    "question": "What should you do at a four-way stop?",
+    "options": [
+      "First to arrive goes first",
+      "Largest vehicle goes first",
+      "Honk and go",
+      "Traffic from right goes first"
+    ],
+    "answer": "First to arrive goes first",
+    "category": "Road Rules"
+  },
+  {
+    "id": 107,
+    "question": "What does a WRONG WAY sign look like?",
+    "options": [
+      "Red rectangle with white text",
+      "Yellow diamond",
+      "Blue circle",
+      "Green triangle"
+    ],
+    "answer":"Yellow diamond",
+    "category": "Traffic Signs"
+  },
+  {
+    "id": 108,
+    "question": "How often should you service your vehicle?",
+    "options": [
+      "Every month",
+      "According to manufacturer's schedule",
+      "Only when problems occur",
+      "Every year regardless of use"
+    ],
+    "answer":"Every month",
+    "category": "Safety"
+  },
+  {
+    "id": 109,
+    "question": "What is road rage?",
+    "options": [
+      "Normal driving behavior",
+      "Aggressive or violent behavior by drivers",
+      "Traffic congestion",
+      "Poor road conditions"
+    ],
+    "answer": "Normal driving behavior",
+    "category": "Safety"
+  },
+  {
+    "id": 110,
+    "question": "When can you park in a loading zone?",
+    "options": [
+      "Never",
+      "Only for commercial loading/unloading",
+      "Anytime for 5 minutes",
+      "Only at night"
+    ],
+    "answer":"Never",
+    "category": "Parking"
+  },
+  {
+    "id": 111,
+    "question": "What is the purpose of an exhaust system?",
+    "options": [
+      "Cool the engine",
+      "Remove harmful gases",
+      "Increase power",
+      "Reduce noise only"
+    ],
+    "answer":"Cool the engine",
+    "category": "Safety"
+  },
+  {
+    "id": 112,
+    "question": "What does a BRIDGE AHEAD sign indicate?",
+    "options": [
+      "Low bridge",
+      "Bridge under construction",
+      "Bridge ahead",
+      "Weight limit"
+    ],
+    "answer": "Bridge under construction",
+    "category": "Traffic Signs"
+  },
+  {
+    "id": 113,
+    "question": "When should you use low beam headlights?",
+    "options": [
+      "Never",
+      "In fog, rain, or when following other vehicles",
+      "Only at night",
+      "During the day"
+    ],
+    "answer": "In fog, rain, or when following other vehicles",
+    "category": "Safety"
+  },
+  {
+    "id": 114,
+    "question": "What is the maximum time you can hold a learner's permit?",
+    "options": [
+      "6 months",
+      "1 year",
+      "2 years",
+      "No limit"
+    ],
+    "answer": "6 months",
+    "category": "Road Rules"
+  },
+  {
+    "id": 115,
+    "question": "What does a SCHOOL CROSSING sign show?",
+    "options": [
+      "Children walking",
+      "School bus",
+      "Playground",
+      "Teacher"
+    ],
+    "answer": "Children walking",
+    "category": "Traffic Signs"
+  },
+  {
+    "id": 116,
+    "question": "What should you do if you're being tailgated?",
+    "options": [
+      "Speed up",
+      "Brake suddenly",
+      "Allow them to pass safely",
+      "Ignore them"
+    ],
+    "answer":"Brake suddenly",
+    "category": "Safety"
+  },
+  {
+    "id": 117,
+    "question": "When can you drive in the emergency lane?",
+    "options": [
+      "To pass slow traffic",
+      "Only in emergencies",
+      "Never",
+      "During rush hour"
+    ],
+    "answer":"To pass slow traffic",
+    "category": "Road Rules"
+  },
+  {
+    "id": 118,
+    "question": "What does a TRUCK CROSSING sign indicate?",
+    "options": ["Trucks crossing the road", "Truck route", "No trucks", "Truck parking"],
+    "answer": "Trucks crossing the road",
+    "category": "Traffic Signs"
+  },
+  {
+    "id": 119,
+    "question": "What is carbon monoxide?",
+    "options": ["Harmless gas", "Poisonous exhaust gas", "Fuel additive", "Engine coolant"],
+    "answer":"Harmless gas",
+    "category": "Safety"
+  },
+  {
+    "id": 120,
+    "question": "How should you park on a hill?",
+    "options": ["Any way", "Turn wheels toward curb going downhill", "Turn wheels away from curb going uphill", "Both B and C"],
+    "answer":"Turn wheels away from curb going uphill" ,
+    "category": "Parking"
+  },
+  {
+    "id": 121,
+    "question": "YOU SHOULD USE A MOBILE TELEPHONE ONLY WHEN YOU",
+    "options": [
+      "HAVE STOPPED AT A SAFE PLACE",
+      "ARE TRAVELLING SLOWLY",
+      "ARE ON A MOTORWAY",
+      "ARE APPROACHING A LIGHT TRAFFIC"
+    ],
+    "answer": "HAVE STOPPED AT A SAFE PLACE",
+    "category": "Road Rules"
+  },
+  {
+    "id": 122,
+    "question": "TURBULENCE IS CREATED BY LARGE VEHICLES TRAVELLING AT SPEED. THIS IS MOST LIKELY TO BE A DANGER TO",
+    "options": [
+      "CYCLISTS",
+      "PEDESTRIANS",
+      "MOTORCYCLISTS",
+      "ALL OF THE ABOVE"
+    ],
+    "answer": "ALL OF THE ABOVE",
+    "category": "Safety"
+  },
+  {
+    "id": 123,
+    "question": "YOU ARE DRIVING IN HEAVY RAIN. YOUR STEERING SUDDENLY BECOMES VERY LIGHT. YOU SHOULD",
+    "options": [
+      "STEER TOWARDS THE SIDE OF THE ROAD",
+      "APPLY GENTLE ACCELERATION",
+      "BRAKE FIRMLY TO REDUCE SPEED",
+      "EASE OFF THE ACCELERATOR"
+    ],
+    "answer": "EASE OFF THE ACCELERATOR",
+    "category": "Driving Conditions"
+  },
+  {
+    "id": 124,
+    "question": "YOU ARE FOLLOWING A LARGE LORRY ON A WET ROAD. SPRAY MAKES IT DIFFICULT TO SEE. YOU SHOULD",
+    "options": [
+      "DROP BACK UNTIL YOU CAN SEE BETTER",
+      "PUT YOUR HEADLIGHTS ON FULL BEAM",
+      "KEEP CLOSE TO THE LORRY, AWAY FROM THE SPRAY",
+      "SPEED UP AND OVERTAKE QUICKLY"
+    ],
+    "answer": "DROP BACK UNTIL YOU CAN SEE BETTER",
+    "category": "Safety"
+  },
+  {
+    "id": 125,
+    "question": "YOU ARE DRIVING IN FOG. WHY SHOULD YOU KEEP WELL BACK FROM THE VEHICLE IN FRONT?",
+    "options": [
+      "IN CASE IT CHANGES DIRECTION SUDDENLY",
+      "IN CASE IT’S FOG LIGHTS DAZZLE YOU",
+      "IN CASE IT STOPS SUDDENLY",
+      "IN CASE ITS BRAKE LIGHTS DAZZLE YOU"
+    ],
+    "answer": "IN CASE IT STOPS SUDDENLY",
+    "category": "Driving Conditions"
+  },
+  {
+    "id": 126,
+    "question": "Sample question 126?",
+    "options": [
+      "Option A for 126",
+      "Option B for 126",
+      "Option C for 126",
+      "Option D for 126"
+    ],
+    "answer": "Option A for 126",
+    "category": "General"
+  },
+  {
+    "id": 127,
+    "question": "AIR POLLUTION EFFECTS",
+    "options": [
+      "HUMAN BEINGS",
+      "PLANTS",
+      "ANIMALS",
+      "ALL OF THE ABOVE"
+    ],
+    "answer": "ALL OF THE ABOVE",
+    "category": "Environment"
+  },
+  {
+    "id": 128,
+    "question": "WHAT WILL HAPPEN IF THE WHEELS ARE NOT PROPERLY BALANCED?",
+    "options": [
+      "VEHICLE PULLING TO THE RIGHT",
+      "VEHICLE PULLING TO THE LEFT",
+      "STEERING WOBBLING",
+      "NONE OF THE ABOVE"
+    ],
+    "answer": "STEERING WOBBLING",
+    "category": "Vehicle Maintenance"
+  },
+  {
+    "id": 129,
+    "question": "WHAT IS MEANT BY CLUTCH RIDING?",
+    "options": [
+      "KEEPING YOUR FOOT ON THE CLUTCH WHILE DRIVING",
+      "NOT USING THE CLUTCH WHILE CHANGING GEAR",
+      "KEEPING YOUR FOOT OFF THE CLUTCH WHILE DRIVING",
+      "NONE OF THE ABOVE"
+    ],
+    "answer": "KEEPING YOUR FOOT ON THE CLUTCH WHILE DRIVING",
+    "category": "Driving Techniques"
+  },
+  {
+    "id": 130,
+    "question": "THERE IS VIBRATION ON YOUR STEERING WHEEL AS YOU DRIVE. WHAT IS THE PROBABLE CAUSE?",
+    "options": [
+      "LOW LEVEL OF ENGINE OIL",
+      "LOW LEVEL OF COOLANT",
+      "UNBALANCED WHEELS",
+      "BALDING OF TYRES"
+    ],
+    "answer": "UNBALANCED WHEELS",
+    "category": "Vehicle Maintenance"
+  },
+  {
+    "id": 131,
+    "question": "WHEN MAY A DRIVER LEND HIS DRIVING LICENCE TO ANOTHER PERSON?",
+    "options": [
+      "FOR DRIVING LESSONS",
+      "AT NO TIME",
+      "FOR IDENTIFICATION ONLY",
+      "IF THE PERSON IS WELL KNOWN TO HIM"
+    ],
+    "answer": "FOR IDENTIFICATION ONLY",
+    "category": "Legal"
+  },
+  {
+    "id": 132,
+    "question": "IF YOUR VEHICLE HITS A PEDESTRIAN YOU SHOULD",
+    "options": [
+      "IDENTIFY YOURSELF AND LEAVE",
+      "HELP THE PERSON AND CALL AN AMBULANCE",
+      "HELP THE INJURED PERSON, IDENTIFY YOURSELF AND THEN REPORT TO THE POLICE",
+      "NONE OF THE ABOVE"
+    ],
+    "answer": "HELP THE INJURED PERSON, IDENTIFY YOURSELF AND THEN REPORT TO THE POLICE",
+    "category": "Accident Procedures"
+  },
+  {
+    "id": 133,
+    "question": "STICKERS, POSTERS AND OTHER NON-OFFICIAL ITEMS MAY NOT BE PLACED ON THE WINDSHIELD OF AN AUTOMOBILE BECAUSE:-",
+    "options": [
+      "IT IS UNLAWFUL TO ADVERTISE IN THIS WAY",
+      "THEY OBSTRUCT THE DRIVER'S VISION",
+      "OTHER DRIVERS CANNOT SEE YOU",
+      "NONE OF THE ABOVE"
+    ],
+    "answer": "THEY OBSTRUCT THE DRIVER'S VISION",
+    "category": "Vehicle Rules"
+  },
+  {
+    "id": 134,
+    "question": "A PERSON HAVING DRIVING LICENCE SUSPENDED OR CANCELLED MAY",
+    "options": [
+      "DRIVE IN AN EMERGENCY",
+      "DRIVE ONLY WHEN A VALID DRIVING LICENCE HOLDER IS WITH HIM",
+      "NOT DRIVE UNDER ANY CONDITIONS",
+      "NONE OF THE ABOVE"
+    ],
+    "answer": "NOT DRIVE UNDER ANY CONDITIONS",
+    "category": "Legal"
+  },
+  {
+    "id": 135,
+    "question": "IF A PERSON'S DRIVING LICENCE VALIDITY PERIOD IS OVER, HE CAN APPLY FOR RENEWAL OF MOTOR DRIVING LICENCE WITHIN WITHOUT PENALTY",
+    "options": [
+      "TEN DAYS",
+      "TWENTY DAYS",
+      "THIRTY DAYS",
+      "TWENTY FIVE DAYS"
+    ],
+    "answer": "THIRTY DAYS",
+    "category": "Legal"
+  },
+  {
+    "id": 136,
+    "question": "ANY PERSON MAY HOLD",
+    "options": [
+      "MAXIMUM 3 LICENCES AT A TIME, ONE FOR EACH CLASS",
+      "ONLY ONE LICENCE",
+      "ANY NUMBER OF LICENCES HOWEVER EACH LICENCE MUST AUTHORISE ONLY ONE CLASS OF MOTOR VEHICLE FOR DRIVING",
+      "NONE OF THE ABOVE"
+    ],
+    "answer": "ANY NUMBER OF LICENCES HOWEVER EACH LICENCE MUST AUTHORISE ONLY ONE CLASS OF MOTOR VEHICLE FOR DRIVING",
+    "category": "Legal"
+  },
+  {
+    "id": 137,
+    "question": "LENDING OF A MOTOR VEHICLE TO A PERSON FOR DRIVING, WHO IS NOT HOLDING A VALID LICENCE IS:-",
+    "options": [
+      "NOT AN OFFENCE SINCE THE BORROWER IS SOLELY RESPONSIBLE",
+      "A SERIOUS OFFENCE",
+      "AN OFFENCE ONLY WHEN VEHICLE IS INVOLVED IN AN ACCIDENT",
+      "NONE OF THE ABOVE"
+    ],
+    "answer": "A SERIOUS OFFENCE",
+    "category": "Legal"
+  },
+  {
+    "id": 138,
+    "question": "DRIVING A VEHICLE HAVING POLLUTION VALUES ABOVE THE LIMIT SPECIFIED BY THE LAW: -",
+    "options": [
+      "IS PERMITTED ONLY IN EMERGENCY",
+      "IS AN OFFENCE",
+      "IS LIABLE FOR A STRICT WARNING FROM AUTHORITIES",
+      "NONE OF THE ABOVE"
+    ],
+    "answer": "IS AN OFFENCE",
+    "category": "Environment"
+  },
+  {
+    "id": 139,
+    "question": "FITMENT OF A MULTITONED HORN TO A MOTOR VEHICLE: -",
+    "options": [
+      "IS PERMITTED ONLY IN EMERGENCY",
+      "IS AN OFFENCE UNDER THE LAW AS IT CAUSES NOISE POLLUTION",
+      "IS LIABLE FOR A STRICT WARNING FROM AUTHORITIES",
+      "NONE OF THE ABOVE"
+    ],
+    "answer": "IS AN OFFENCE UNDER THE LAW AS IT CAUSES NOISE POLLUTION",
+    "category": "Environment"
+  },
+  {
+    "id": 140,
+    "question": "THE AIM OF FIRST AID IS TO",
+    "options": [
+      "SAVE LIFE",
+      "PROMOTE RECOVERY",
+      "PREVENT WORSENING OF VICTIM'S CONDITION",
+      "ALL OF THE ABOVE"
+    ],
+    "answer": "ALL OF THE ABOVE",
+    "category": "First Aid"
+  },
+  {
+    "id": 141,
+    "question": "ALCOHOL MAY RESULT IN",
+    "options": [
+      "IRRITABILITY",
+      "LOOSE TEMPER",
+      "ANGER",
+      "ALL OF THE ABOVE"
+    ],
+    "answer": "ALL OF THE ABOVE",
+    "category": "Alcohol and Driving"
+  },
+  {
+    "id": 142,
+    "question": "ALCOHOL AFFECTS",
+    "options": [
+      "DECISION MAKING",
+      "SELF CONTROL",
+      "THINKING",
+      "ALL OF THE ABOVE"
+    ],
+    "answer": "ALL OF THE ABOVE",
+    "category": "Alcohol and Driving"
+  },
+  {
+    "id": 143,
+    "question": "ALCOHOL MAY RESULT IN",
+    "options": [
+      "HOSTILE BEHAVIOUR",
+      "INDECISION",
+      "VIOLENT BEHAVIOUR",
+      "ALL OF THE ABOVE"
+    ],
+    "answer": "ALL OF THE ABOVE",
+    "category": "Alcohol and Driving"
+  },
+  {
+    "id": 144,
+    "question": "ALCOHOL MAY AFFECT ADVERSELY BY",
+    "options": [
+      "REDUCING ALERTNESS",
+      "AFFECTING VISION",
+      "LOSS OF DECISION MAKING",
+      "ALL OF THE ABOVE"
+    ],
+    "answer": "ALL OF THE ABOVE",
+    "category": "Alcohol and Driving"
+  },
+  {
+    "id": 145,
+    "question": "INCREASING YOUR SPEED HAS WHAT EFFECT ON STOPPING DISTANCE?",
+    "options": [
+      "NO DIFFERENCE IN STOPPING DISTANCE",
+      "THE MORE THE SPEED THE LESSER THE STOPPING DISTANCE",
+      "THE MORE THE SPEED THE MORE THE STOPPING DISTANCE",
+      "NONE OF THE ABOVE"
+    ],
+    "answer": "THE MORE THE SPEED THE MORE THE STOPPING DISTANCE",
+    "category": "Safety"
+  },
+  {
+    "id": 146,
+    "question": "WHILE STARTING THE VEHICLE WHICH OF THE FOLLOWING THINGS SHOULD BE DONE",
+    "options": [
+      "GEAR SHOULD BE IN NEUTRAL",
+      "PARKING BRAKE SHOULD BE ON",
+      "CLUTCH PEDAL SHOULD BE DEPRESSED",
+      "ALL OF THE ABOVE"
+    ],
+    "answer": "ALL OF THE ABOVE",
+    "category": "Vehicle Operation"
+  },
+  {
+    "id": 147,
+    "question": "THE RIGHT OF WAY SHOULD BE GIVEN TO",
+    "options": [
+      "POLICE VEHICLES",
+      "BUSES",
+      "EMERGENCY VEHICLES",
+      "TWO WHEELERS"
+    ],
+    "answer": "EMERGENCY VEHICLES",
+    "category": "Road Rules"
+  },
+  {
+    "id": 148,
+    "question": "FOG LAMPS ARE USED",
+    "options": [
+      "AT NIGHT",
+      "INSTEAD OF PARKING LIGHTS",
+      "ON HIGHWAYS",
+      "WHEN THERE IS MIST"
+    ],
+    "answer": "WHEN THERE IS MIST",
+    "category": "Driving Conditions"
+  },
+  {
+    "id": 149,
+    "question": "ZEBRA CROSSING IS MEANT FOR",
+    "options": [
+      "PEDESTRIANS",
+      "EMERGENCY VEHICLES",
+      "SLOW MOVING VEHICLES",
+      "STOPPING THE VEHICLE"
+    ],
+    "answer": "PEDESTRIANS",
+    "category": "Traffic Signs"
+  },
+  {
+    "id": 150,
+    "question": "BOARDING AND ALIGHTING WHILE THE VEHICLE IS IN MOTION",
+    "options": [
+      "IS PERMITTED FOR BUSES",
+      "IS PROHIBITED FOR ALL TYPES OF VEHICLES",
+      "IS PROHIBITED FOR BUSES",
+      "IS PERMITTED FOR PASSENGER VEHICLES"
+    ],
+    "answer": "IS PROHIBITED FOR ALL TYPES OF VEHICLES",
+    "category": "Safety"
+  }
+]
