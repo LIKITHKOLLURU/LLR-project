@@ -14,5 +14,9 @@ This web application is designed to help users prepare for the Learner's License
 - Styling: Custom CSS
 - Data: Static JSON-based question set
 
+ 🧠 Prerequisites
+- Node.js and npm installed
+- Basic knowledge of React.js
+
 
 
