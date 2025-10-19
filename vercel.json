@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd llrproject && npm install && npm run build",
+  "outputDirectory": "llrproject/dist",
+  "installCommand": "cd llrproject && npm install"
+}
