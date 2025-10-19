@@ -1294,5 +1294,145 @@
     ],
     "answer": "IS PROHIBITED FOR ALL TYPES OF VEHICLES",
     "category": "Safety"
+  },
+  {
+    "id": 151,
+    "question": "What is the maximum speed limit in residential areas?",
+    "options": ["25 km/h", "40 km/h", "50 km/h", "60 km/h"],
+    "answer": "40 km/h",
+    "category": "Speed Limits"
+  },
+  {
+    "id": 152,
+    "question": "When should you use your vehicle's horn?",
+    "options": ["To greet friends", "Only when necessary to warn others", "In silent zones", "At night"],
+    "answer": "Only when necessary to warn others",
+    "category": "Road Rules"
+  },
+  {
+    "id": 153,
+    "question": "What does a flashing red traffic light mean?",
+    "options": ["Proceed with caution", "Stop and proceed when safe", "Speed up", "No entry"],
+    "answer": "Stop and proceed when safe",
+    "category": "Traffic Control"
+  },
+  {
+    "id": 154,
+    "question": "What is the minimum age to obtain a learner's license for a motorcycle?",
+    "options": ["16 years", "18 years", "21 years", "25 years"],
+    "answer": "16 years",
+    "category": "Licensing"
+  },
+  {
+    "id": 155,
+    "question": "What should you do when an ambulance approaches from behind?",
+    "options": ["Speed up", "Stop immediately", "Give way by moving to the side", "Continue at same speed"],
+    "answer": "Give way by moving to the side",
+    "category": "Safety"
+  },
+  {
+    "id": 156,
+    "question": "What does a yellow zigzag line on the road indicate?",
+    "options": ["Parking allowed", "No parking zone", "Speed breaker ahead", "School zone"],
+    "answer": "No parking zone",
+    "category": "Road Markings"
+  },
+  {
+    "id": 157,
+    "question": "When is it mandatory to wear a helmet?",
+    "options": ["Only on highways", "Only at night", "Always when riding a two-wheeler", "Only in city limits"],
+    "answer": "Always when riding a two-wheeler",
+    "category": "Safety"
+  },
+  {
+    "id": 158,
+    "question": "What is the penalty for drunk driving?",
+    "options": ["Warning only", "Fine and/or imprisonment", "License suspension only", "No penalty"],
+    "answer": "Fine and/or imprisonment",
+    "category": "Traffic Violations"
+  },
+  {
+    "id": 159,
+    "question": "What does a white broken line on the road mean?",
+    "options": ["No overtaking", "Overtaking allowed", "Parking zone", "Bus lane"],
+    "answer": "Overtaking allowed",
+    "category": "Road Markings"
+  },
+  {
+    "id": 160,
+    "question": "What should you do at a railway crossing with flashing lights?",
+    "options": ["Speed up to cross quickly", "Stop and wait", "Proceed slowly", "Honk and cross"],
+    "answer": "Stop and wait",
+    "category": "Safety"
+  },
+  {
+    "id": 161,
+    "question": "What is the safe following distance on highways?",
+    "options": ["1 second", "2 seconds", "3-4 seconds", "No specific distance"],
+    "answer": "3-4 seconds",
+    "category": "Driving Conditions"
+  },
+  {
+    "id": 162,
+    "question": "What does a green arrow signal indicate?",
+    "options": ["Stop", "Proceed in the direction of arrow", "Caution", "No entry"],
+    "answer": "Proceed in the direction of arrow",
+    "category": "Traffic Control"
+  },
+  {
+    "id": 163,
+    "question": "When should you dip your headlights?",
+    "options": ["Never", "When approaching oncoming traffic", "Only in city", "During daytime"],
+    "answer": "When approaching oncoming traffic",
+    "category": "Driving Conditions"
+  },
+  {
+    "id": 164,
+    "question": "What is the maximum permissible blood alcohol content (BAC) for drivers?",
+    "options": ["0%", "0.03%", "0.05%", "0.08%"],
+    "answer": "0.03%",
+    "category": "Traffic Violations"
+  },
+  {
+    "id": 165,
+    "question": "What does a octagonal red sign indicate?",
+    "options": ["Yield", "Stop", "No entry", "Speed limit"],
+    "answer": "Stop",
+    "category": "Traffic Signs"
+  },
+  {
+    "id": 166,
+    "question": "What should you do if your vehicle breaks down on a highway?",
+    "options": ["Leave it in the lane", "Move it to the side and use hazard lights", "Stand behind the vehicle", "Wait in the vehicle"],
+    "answer": "Move it to the side and use hazard lights",
+    "category": "Safety"
+  },
+  {
+    "id": 167,
+    "question": "What is the purpose of ABS (Anti-lock Braking System)?",
+    "options": ["Increase speed", "Prevent wheel lock during braking", "Save fuel", "Reduce noise"],
+    "answer": "Prevent wheel lock during braking",
+    "category": "Vehicle Safety"
+  },
+  {
+    "id": 168,
+    "question": "When can you use the horn in a silent zone?",
+    "options": ["Anytime", "Never", "Only in emergency", "At night"],
+    "answer": "Only in emergency",
+    "category": "Road Rules"
+  },
+  {
+    "id": 169,
+    "question": "What does a double solid white line mean?",
+    "options": ["Overtaking allowed", "No overtaking or crossing", "Parking allowed", "Bus lane"],
+    "answer": "No overtaking or crossing",
+    "category": "Road Markings"
+  },
+  {
+    "id": 170,
+    "question": "What is the validity period of a learner's license?",
+    "options": ["3 months", "6 months", "1 year", "2 years"],
+    "answer": "6 months",
+    "category": "Licensing"
   }
 ]

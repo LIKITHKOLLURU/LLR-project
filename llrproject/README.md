@@ -1,12 +1,22 @@
-# React + Vite
+🛣️ Learner License Test Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This web application is designed to help users prepare for the Learner's License exam. It provides categorized practice questions and a mock test feature that simulates the real exam environment with a timer, scoring system, and detailed result review.
 
-Currently, two official plugins are available:
+🚀 Features
+- 📚 Practice Mode: Browse and filter questions by category.
+- 📝 Mock Test: Timed 20-question test with instant scoring.
+- ✅ Answer Review: See which questions you got right or wrong.
+- ⏱️ Countdown Timer: 30 seconds per question in mock test.
+- 🔒 Environment : Responsive and accessible design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Tech Stack
+- Frontend: React.js (with Hooks and functional components)
+- Styling: Custom CSS
+- Data: Static JSON-based question set
 
-## Expanding the ESLint configuration
+ 🧠 Prerequisites
+- Node.js and npm installed
+- Basic knowledge of React.js
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+

@@ -3,6 +3,174 @@ body {
   font-family: 'Segoe UI', sans-serif;
   background: #f5f7ff;
   color: #333;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Dark Mode Styles */
+body.dark-mode {
+  background: #1a1a2e;
+  color: #f5f5f5;
+}
+
+body.dark-mode .navbar {
+  background: linear-gradient(90deg, #2d0066, #5a00b8);
+}
+
+body.dark-mode .home-container h1 {
+  color: #ffffff;
+}
+
+body.dark-mode .home-container p {
+  color: #d0d0d0;
+}
+
+body.dark-mode .card {
+  background-color: #252540;
+  color: #f5f5f5;
+}
+
+body.dark-mode .card h3 {
+  color: #ffffff;
+}
+
+body.dark-mode .card ul li {
+  color: #e0e0e0;
+}
+
+body.dark-mode .category-card {
+  background-color: #252540;
+  color: #f5f5f5;
+}
+
+body.dark-mode .question-card {
+  background-color: #252540;
+  color: #f5f5f5;
+}
+
+body.dark-mode .question-text {
+  color: #ffffff;
+}
+
+body.dark-mode .option-btn {
+  background-color: #2d2d50;
+  color: #f5f5f5;
+  border: 1px solid #444;
+}
+
+body.dark-mode .option-btn:hover {
+  background-color: #3a3a60;
+  color: #ffffff;
+}
+
+body.dark-mode .option-btn.selected {
+  background-color: #1e4d2b;
+  color: #ffffff;
+}
+
+body.dark-mode .confirmation-container {
+  background-color: #252540;
+  color: #f5f5f5;
+}
+
+body.dark-mode .confirmation-container h2 {
+  color: #9db4ff;
+}
+
+body.dark-mode .confirmation-container ul {
+  color: #e0e0e0;
+}
+
+body.dark-mode .confirmation-container ul li {
+  color: #e0e0e0;
+}
+
+body.dark-mode .result-container {
+  background-color: #252540;
+  color: #f5f5f5;
+}
+
+body.dark-mode .score-text {
+  color: #ffffff;
+}
+
+body.dark-mode .practice-container {
+  background-color: #252540;
+  color: #f5f5f5;
+}
+
+body.dark-mode .practice-container h2 {
+  color: #ffffff;
+}
+
+body.dark-mode .review-container {
+  background-color: #252540;
+  color: #f5f5f5;
+}
+
+body.dark-mode .review-question {
+  background-color: #2d2d50;
+  color: #f5f5f5;
+}
+
+body.dark-mode .review-question h3 {
+  color: #ffffff;
+}
+
+body.dark-mode .category-filter label {
+  color: #f5f5f5;
+}
+
+body.dark-mode .category-filter select {
+  background-color: #2d2d50;
+  color: #f5f5f5;
+  border-color: #555;
+}
+
+body.dark-mode .question-card h3 {
+  color: #ffffff;
+}
+
+body.dark-mode .question-card li {
+  background-color: #2d2d50;
+  color: #f5f5f5;
+}
+
+body.dark-mode .category-label {
+  color: #b0b0b0;
+}
+
+body.dark-mode .timer {
+  color: #ff6b9d;
+}
+
+body.dark-mode .review-question div[style*="background-color: #fff3cd"] {
+  background-color: #3d3520 !important;
+  border-left-color: #ffa000 !important;
+}
+
+body.dark-mode .review-question div[style*="background-color: #fff3cd"] p {
+  color: #f5f5f5 !important;
+}
+
+.theme-toggle-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.3s ease;
+  color: #fff;
+}
+
+.theme-toggle-btn:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.theme-toggle-btn svg {
+  color: #ffd700;
 }
 
 .navbar {
